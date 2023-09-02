@@ -38,7 +38,7 @@ const handleCategory = async () => {
       div.innerHTML = `
           <div class="card w-96 bg-base-100 ">
           <figure class="px-10 pt-10">
-          <img src="image/icon.png" alt="" class="rounded-xl" />
+          <img src="./image/icon.png" alt="" class="rounded-xl" />
           </figure>
           <div class="card-body items-center text-center font-semibold">
           <h2 class="card-title">Oops!! Sorry, There is no<br>content here</h2>
